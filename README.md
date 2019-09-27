@@ -1,11 +1,11 @@
 # HW0 環境熟悉
 
-+ Name: <請修改 Makefile>
-+ ID: <請修改 Makefile>
-+ GitHub: <請修改 Makefile>
-+ Email: <請修改 Makefile>
++ Name: 王祥任
++ ID: 0616309
++ GitHub: allen880117
++ Email: wangallen880117@gmail.com
 
-Last Make: <自動生成的欄位喇>
+Last Make: Fri Sep 27 15:42:30 CST 2019
 
 ---
 
@@ -80,11 +80,11 @@ studentEmail = nctuGreatAgain@gmail.com
 $ make
 cp .README.backup.md README.md
 # Update README.md ...
-sed -i.sedbak 's/Name :.*/Name: 編義氣/'  README.md
-sed -i.sedbak 's/ID :.*/ID: 0612999/'  README.md
-sed -i.sedbak 's/GitHub :.*/GitHub: nctuGreatAgain/'  README.md
-sed -i.sedbak 's/Email :.*/Email: nctuGreatAgain@gmail.com/'  README.md
-sed -i.sedbak 's/Last Make :.*/Last Make: Wed Aug 21 13:05:25 CST 2019/'  README.md
+sed -i.sedbak 's/Name :.*/Name: 王祥任
+sed -i.sedbak 's/ID :.*/ID: 0616309
+sed -i.sedbak 's/GitHub :.*/GitHub: allen880117
+sed -i.sedbak 's/Email :.*/Email: wangallen880117@gmail.com
+sed -i.sedbak 's/Last Make :.*/Last Make: Fri Sep 27 15:42:30 CST 2019
 cat README.md | head -n 10
 # HW0 環境熟悉
 
@@ -93,7 +93,7 @@ cat README.md | head -n 10
 + GitHub : nctuGreatAgain
 + Email : nctuGreatAgain@gmail.com
 
-Last Make: Wed Aug 21 13:05:25 CST 2019
+Last Make: Fri Sep 27 15:42:30 CST 2019
 
 ---
 ```
